@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/api/api/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/matchmusic/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/matchmusic/matchmusic/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/Screem Match/3356-java-screenmatch-web/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/screenMatchFrases/screenMatchFrases/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/consultaTabelaFipe/consultaTabelaFipe/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/Spring boot sem web/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/literArula-Challenge/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/3356-java-screenmatch-web/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/3355-java-screenmatch-com-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/Java/java-screenmatch-com-jpa - Copy/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/javacubos/apirest/pom.xml" />
+        <option value="$PROJECT_DIR$/Fase 3/javacubos/aprirestjava/aprirestjava/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
